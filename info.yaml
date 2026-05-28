@@ -5,10 +5,10 @@ project:
   discord:      "harshith_62881"
   description:  "3x3 parallel hardware architecture for matrix multiplication"
   language:     "Verilog"
-  clock_hz:     10000000
+  clock_hz:     0
 
   # Expanded to 2x2 to ensure the 27 multipliers fit in the GF180 routing grid
-  tiles: "3x4"
+  tiles: "4x4"
 
   top_module:  "tt_um_harshith_systolic"
 
