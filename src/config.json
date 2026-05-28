@@ -71,4 +71,7 @@
 
   "//": "Only export pin area in LEF (without any connected nets)",
   "MAGIC_WRITE_LEF_PINONLY": 1
+  "//": "Bypass OpenLane crash on setup violations",
+  "QUIT_ON_TIMING_VIOLATIONS": 0
+
 }
