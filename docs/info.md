@@ -1,8 +1,8 @@
 3x3 Systolic Array for Matrix Multiplication
 
 ## What is the project?
-
-    This project is a hardware implementation of a 3x3 systolic array architecture for matrix multiplication, developed as part of the Benchmark II: Compute-Bound Scalability research. It is designed to demonstrate high computational efficiency by enabling massive parallel computation, overcoming the memory bottlenecks typically found in sequential architectures like traditional CPUs and GPUs.
+	
+This project is a hardware implementation of a 3x3 systolic array architecture for matrix multiplication, developed as part of the Benchmark II: Compute-Bound Scalability research. It is designed to demonstrate high computational efficiency by enabling massive parallel computation, overcoming the memory bottlenecks typically found in sequential architectures like traditional CPUs and GPUs.
 
 ## How it works
 
